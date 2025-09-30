@@ -6,10 +6,10 @@ require (
 	github.com/beevik/etree v1.3.0
 	github.com/git-jiadong/go-lame v0.0.0-20241215065806-397455857191
 	github.com/git-jiadong/go-silk v0.0.0-20241215085148-b8734e30c24b
+	github.com/golang/protobuf v1.5.3
 	github.com/mattn/go-sqlite3 v1.14.22
 	github.com/pierrec/lz4 v2.6.1+incompatible
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
-	github.com/shirou/gopsutil v2.21.11+incompatible
 	github.com/shirou/gopsutil/v3 v3.24.2
 	github.com/spf13/viper v1.18.2
 	github.com/wailsapp/wails/v2 v2.9.1
